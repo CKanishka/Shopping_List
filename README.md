@@ -22,4 +22,4 @@ For Client side,(i.e. Inside the client folder) run the following commands-
 ## Screenshots:-
 ![MainPage](/screenshots/sl1.jpg)
 ![Additems](/screenshots/sl2.jpg)
-![Responsiveness/sl3.jpg)
+![Responsiveness](/screenshots/sl3.jpg)
