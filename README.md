@@ -18,3 +18,8 @@ For Client side,(i.e. Inside the client folder) run the following commands-
 * npm i bootstrap reactstrap uuid react-transition-group
 * npm i redux react-redux redux-thunk
 * npm i animate.css
+
+## Screenshots:-
+![MainPage](/screenshots/sl1.jpg)
+![Additems](/screenshots/sl2.jpg)
+![Responsiveness/sl3.jpg)
