@@ -2,7 +2,7 @@ const express=require('express');
 const bodyParser=require('body-parser');
 const mongoose=require('mongoose');
 
-const mongoURI='mongodb://kc:kc12345@ds111963.mlab.com:11963/shopping_list'
+const mongoURI='YOUR_LINK_GOES_HERE';
 
 const app=express(); //initializing express
 
